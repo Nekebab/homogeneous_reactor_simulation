@@ -16,6 +16,7 @@
 
 *   `neutron_multiplication_factor.ipynb` - основной файл с кодом, расчетами, графиками и выводами.
 *   `README.md` - этот файл с описанием проекта.
+*   `neutron_cycle_theory.pdf` - файл с теорией.
 
 ## Начало работы
 
